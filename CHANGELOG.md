@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-05)
+## Unreleased (2025-06-10)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`c214aad`](https://github.com/stdlib-js/stdlib/commit/c214aad811da884f01942b3cee4b52c04a541adf) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`223ace2`](https://github.com/stdlib-js/stdlib/commit/223ace2eeeabb389a306d0f7fdc06b08332c1457) - **feat:** add `stats/array/nanminabs` [(#7225)](https://github.com/stdlib-js/stdlib/pull/7225) _(by Gururaj Gurram)_
 
 </details>
