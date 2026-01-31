@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import nanminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-nanminabs@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-array-nanminabs/tags). For example,
+
+```javascript
 import nanminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-nanminabs@v0.1.0-esm/index.mjs';
 ```
 
@@ -96,7 +101,7 @@ The function has the following parameters:
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@esm/index.mjs';
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoulli@esm/index.mjs';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
-import nanminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-nanminabs@v0.1.0-esm/index.mjs';
+import nanminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-nanminabs@esm/index.mjs';
 
 function rand() {
     if ( bernoulli( 0.8 ) < 1 ) {
